@@ -1,2 +1,0 @@
--- Placeholder schema
--- CREATE TABLE students (...);

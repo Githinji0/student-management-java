@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.control.Label?>
-<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="org.yourcompany.yourproject.controller.MainController">
-    <children>
-        <Label text="Student Management - UI Template" AnchorPane.leftAnchor="10" AnchorPane.topAnchor="10" />
-    </children>
-</AnchorPane>
